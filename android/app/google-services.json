@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054476923682",
+    "project_id": "settleup-c3d4d",
+    "storage_bucket": "settleup-c3d4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054476923682:android:0f496f06083bfc7b782b7b",
+        "android_client_info": {
+          "package_name": "com.example.paywise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054476923682-9lk45efifmntbiq9l683pfh4u2a368re.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paywise",
+            "certificate_hash": "4a8affa47887d601b2f0772d8c13c22782753b08"
+          }
+        },
+        {
+          "client_id": "1054476923682-6ourgcj7pstceu20769vum8gnit2nmde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1umxAObN1GbAAESHPCQs2a6RcHEtLMgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054476923682-6ourgcj7pstceu20769vum8gnit2nmde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
