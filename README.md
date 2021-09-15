@@ -1,6 +1,5 @@
-# paywise
-
-A new Flutter project.
+SettleUp
+Flutter Project to track and manage expense.
 
 ## Getting Started
 
